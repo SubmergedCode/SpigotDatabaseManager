@@ -1,5 +1,5 @@
 name: ${project.name}
-version: ${project.version}-${build.number}
+version: ${project.version}-${build.system}-b${build.number}
 main: ${main.class}
 authors: [ TheFish97, n3wton ]
 website: http://crumblecraft.co.uk/
